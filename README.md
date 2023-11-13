@@ -1,2 +1,1 @@
-# Barbearia-Alura
-Trabalho Neto
+Barbearia Alura
